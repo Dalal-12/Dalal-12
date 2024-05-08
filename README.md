@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Dalal Alharbi</h2>
-<h3 align="center">A Data Scientist and web developer who intrested in Artificial Intelligence World </h3>
+<h4 align="center">A Data Scientist and web developer who interested in the Artificial Intelligence World </h4>
 
 - 📫 How to reach me **dalal.cs@hotmail.com**
 
