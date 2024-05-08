@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dalal Alharbi</h1>
-<h3 align="center">A web developer from KSA</h3>
+<h2 align="center">Hi 👋, I'm Dalal Alharbi</h2>
+<h3 align="center">A Data Scientist</h3>
 
 - 📫 How to reach me **dalal.cs@hotmail.com**
 
